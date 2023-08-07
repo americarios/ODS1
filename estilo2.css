@@ -1,0 +1,133 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: rgb(31, 27, 27);
+    background-color: antiquewhite;
+    padding: auto;
+    margin-top: auto;
+    background-color: #f2f2f2; /* Cor de fundo de backup */
+    background-image: url('imagens/Green\ Illustrated\ Campaign\ Earth\ Day\ Instagram\ Story.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+  }
+  
+h1 {
+  color: rgb(45, 39, 16);
+  font-family: 'Open Sans', sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+  font-style: italic;
+  text-decoration: solid;
+  text-align: left;
+
+
+
+
+}
+
+h2{
+color: rgb(0, 0, 0);
+font-family: 'Courier New', Courier, monospace;
+text-align: left;
+font-weight: bold;
+padding: 10px;
+
+
+}
+
+  header {
+    background-color: green;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    
+  }
+  
+  /* Create two columns/boxes that floats next to each other 
+  */
+   form {
+width: 30;
+margin: 10px;
+text-align: end;
+color: white;
+
+
+   }
+   
+   footer{
+    
+    background-color: #a2a185;;
+    padding: 20px;
+    text-align: left;
+    font-size: 14px;
+
+   } 
+   
+   
+   coluna {
+    display: inline-block;
+    width: 33.33%; /* Para três colunas iguais, use 33.33% para duas colunas, use 50% e assim por diante */
+    padding: 10px;
+}
+
+
+table, th, td {
+color: black;
+}
+
+
+
+
+iframe{
+flood-opacity: 10px;
+border-color: rgb(199, 177, 150);
+padding: 0px;
+margin-left: 100;
+align-items: center;
+
+}
+
+
+
+div {
+  background-color: #a2a185;
+  padding: 20px;
+  border: 1px solid rgb(1, 31, 1);;
+  border-radius: 5px;
+}
+
+ul.menu {
+  list-style: none;
+  margin: auto;
+  padding: 0;
+  background-color:rgb(131, 102, 65);
+  display: flex;
+}
+
+/* Estilos para os itens do menu */
+ul.menu li {
+  margin: 0;
+  padding: 10px 20px;
+  color: #fff;
+}
+
+/* Estilos para os links do menu */
+ul.menu li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+/* Estilos para o link ativo */
+ul.menu li.active {
+  background-color: rgb(253, 219, 174);
+}
+
+
+th.colgroup {
+text-align: center;
+
+
+}
