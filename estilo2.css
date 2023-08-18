@@ -20,9 +20,6 @@ h1 {
   text-decoration: solid;
   text-align: left;
 
-
-
-
 }
 
 h2{
@@ -127,5 +124,10 @@ ul.menu li.active {
 th.colgroup {
 text-align: center;
 
+}
 
+
+class teste{
+float: left;
+    
 }
